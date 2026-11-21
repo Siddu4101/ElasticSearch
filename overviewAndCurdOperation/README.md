@@ -116,6 +116,8 @@ Cluster
 - A **shard** is a partition of an index.
 - A **replica** is a copy of a shard used for fault tolerance and high availability.
 
+![Elasticsearch architecture infographic](./Elasticsearch%20Architecture%20Infographic.png)
+
 ### Index, Document, and JSON Data
 
 An index is similar to a database table:

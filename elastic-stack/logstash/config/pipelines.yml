@@ -1,0 +1,5 @@
+- pipeline.id: application1
+  path.config: /usr/share/logstash/pipeline/consoleInOutTest2.conf
+
+- pipeline.id: application2
+  path.config: /usr/share/logstash/pipeline/consoleInputAndOutput.conf
